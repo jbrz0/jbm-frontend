@@ -15,7 +15,7 @@ Production:
 ```
 
 ## Installation
-1. install gulp globally `npm install --global gulp`
+1. install gulp globally: `npm install --global gulp`
 2. clone repo
 3. cd into repo
 4. run `npm install`
