@@ -12,6 +12,7 @@ Production:
 'bootstrap'
 'jQuery'
 'jQuery UI'
+'jQuery dataTables'
 ```
 
 ## Installation
