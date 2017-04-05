@@ -1,0 +1,16 @@
+{
+  "name": "jbm-frontend",
+  "version": "1.0.0",
+  "description": "A basic gulp server with frontend tools",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brz0/jbm-frontend"
+  },
+  "author": "Justin Brazeau",
+  "devDependencies": {
+    "gulp": "^3.8.8",
+    "gulp-sass": "^2.1.1",
+    "gulp-util": "^2.2.20",
+    "gulp-webserver": "^0.8.1"
+  }
+}
