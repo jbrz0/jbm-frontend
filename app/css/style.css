@@ -6,3 +6,10 @@
 etc.
 
  */
+html, body {
+  background: white;
+  padding: 20px; }
+
+h1 {
+  color: crimson;
+  padding-left: 20px; }
